@@ -516,3 +516,7 @@ address{
   padding: 16px 30px;
   font-size: 1.5rem;
 }
+
+.pagination-container{
+  text-align: center;
+}
