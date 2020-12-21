@@ -503,7 +503,6 @@ select#sub-menu, select#sub-menu>option {
   .about-content{
     min-height: calc(85vh - 73px);
   }
-  
 }
 address{
   margin-bottom: 5px;
